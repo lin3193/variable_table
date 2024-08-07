@@ -19,6 +19,7 @@ select * from @tmp_people
 ```
 result:
 ```
+id	username	age
 1	Wang	20
 2	Lin	28
 ```
